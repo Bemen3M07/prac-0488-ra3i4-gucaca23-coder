@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:prac_0488_ra3i4_gucaca23_coder/Examen_Carpio_Guillem/pagina1.dart';
 import 'package:provider/provider.dart';
 import 'moto_provider.dart';
-import 'pagina1.dart';
 
 void main() {
   runApp(

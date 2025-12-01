@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:prac_0488_ra3i4_gucaca23_coder/Examen_Carpio_Guillem/moto_provider.dart';
+import 'package:prac_0488_ra3i4_gucaca23_coder/Examen_Carpio_Guillem/pagina2.dart';
 import 'package:provider/provider.dart';
-import 'moto_provider.dart';
-import 'pagina2.dart';
-import 'moto.dart';
+
 
 class Pagina1 extends StatefulWidget {
   const Pagina1({super.key});
